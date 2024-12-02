@@ -18,8 +18,8 @@
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/JeffSouop">
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="140em" src="https://streak-stats.demolab.com?user=RamonLarcherRibeiro&theme=algolia" alt="GitHub Streak" />  
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSouop&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=JeffSouop&theme=algolia" alt="GitHub Streak" />  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffSouop&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffSouop&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeffSouop&theme=algolia">
@@ -29,7 +29,7 @@
     
 ## 👑 Trophy 👑  
 <div>    
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=JeffSouop&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
 <div align=center>
