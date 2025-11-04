@@ -24,7 +24,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffSouop&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffSouop&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeffSouop&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeffSouop&theme=algolia">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeffSouop&theme=algolia&utcOffset=8">
 </div>
     
