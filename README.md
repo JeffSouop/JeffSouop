@@ -3,6 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F35A61&center=true&multiline=true&random=false&width=1000&lines=Bonjour+%2C++bienvenu+dans+mon+monde+Github" alt="Typing SVG" /></a>
 
 
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
