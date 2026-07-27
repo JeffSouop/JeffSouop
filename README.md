@@ -5,25 +5,11 @@
 
 
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/kteken10/kteken10/output/snake.svg" alt="Snake animation"/>
+</div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture></br>
 
 
 <div align="center">
@@ -37,9 +23,8 @@
   <a href="https://github.com/JeffSouop">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffSouop&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffSouop&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeffSouop&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeffSouop&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeffSouop&theme=algolia&utcOffset=8">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffSouop&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
     
 
@@ -59,5 +44,7 @@
 </div>
 
 
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/kteken10/kteken10/output/snake.svg" alt="Snake animation"/>
+</div>
 
