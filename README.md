@@ -42,9 +42,3 @@
   <h3>Cloud</h3>
     <img src="https://skillicons.dev/icons?i=gcp,aws,azure">
 </div>
-
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kteken10/kteken10/output/snake.svg" alt="Snake animation"/>
-</div>
-
