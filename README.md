@@ -5,6 +5,7 @@
 
 
 
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/kteken10/kteken10/output/snake.svg" alt="Snake animation"/>
 </div>
