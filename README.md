@@ -29,7 +29,7 @@
 
 
 
-## ⚡ Git Statis ⚡
+## ⚡ Git Statistik ⚡
 <div align="center">
   <a href="https://github.com/JeffSouop">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffSouop&theme=algolia">
